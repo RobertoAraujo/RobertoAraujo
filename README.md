@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 
-![Roberto Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertAraujo&show_icons=true&theme=radical)
+![Roberto Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=radical)
 
 <h2> IDE  ⚡ </h2>
 
@@ -37,5 +37,4 @@
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
