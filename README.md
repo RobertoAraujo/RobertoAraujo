@@ -36,6 +36,6 @@
 [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-
+[![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]()
 
 
