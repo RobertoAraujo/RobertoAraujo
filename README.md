@@ -11,7 +11,7 @@
 ![Roberto Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=radical)
 
 <h3> Tecnologias ⚡  </h3>
-
+Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/download/)
