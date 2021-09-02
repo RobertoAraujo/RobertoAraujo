@@ -34,6 +34,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 <h3> IDE  ⚡ </h3>
 <hr>
+
 [![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
@@ -43,6 +44,7 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 <h3> Sistemas  ⚡ </h3>
 <hr>
+
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
