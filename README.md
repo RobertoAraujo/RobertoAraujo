@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAraujo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <hr>
- <div> 
+ <div style="text-align:justify;"> 
 <h3><b> Tecnologias ⚡</b></h3>
 <p> <i>Essas são algumas das tecnologias e ferramentas com as quais, trabalho: </i> </p> 
 
