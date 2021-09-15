@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-<h3> Ola! Seja Bem Vindo !!! 👋</h3>
+<h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! 👋</h3>
 <p> <i> ... </i> </p>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
