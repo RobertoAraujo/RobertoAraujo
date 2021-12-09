@@ -19,7 +19,8 @@
  <div style="text-align:justify;"> 
 <h3><b> Tecnologias ⚡</b></h3>
 <p> <i>Essas são algumas das tecnologias e ferramentas com as quais, trabalho: </i> </p> 
-
+   
+<img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt-br/download/)
