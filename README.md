@@ -42,7 +42,6 @@
 [![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
 [![]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
  </div> 
-  
  <div>  
 
 
