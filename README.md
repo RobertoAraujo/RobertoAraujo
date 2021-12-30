@@ -8,7 +8,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-ara%C3%BAjo-de-moraes-1a280587/)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 </div>
-
 <div>
   <a href="https://github.com/RobertoAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
