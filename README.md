@@ -1,4 +1,3 @@
-
 <div style="text-align:center;">
 <h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! 👋</h3>
 <p> <i> Não busco ser perfeito, tento apenas dar o melhor de mim nas minhas pequenas viagens nesse vasto mundo que e a programação. </i> </p>
@@ -11,9 +10,9 @@
 
 <div>
   <a href="https://github.com/RobertoAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
     &nbsp 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAraujo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoAraujo&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   <hr>
  <div style="text-align:justify;"> 
@@ -28,20 +27,22 @@
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://pgmodeler.io/)
 [![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]()
-[![](https://img.shields.io/badge/NoSQLBooster-F37623?style=for-the-badge&logo=nosqlbooster&logoColor=black)]()
+[![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/guide/setup-local)
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
 [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)]()
 [![](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)]()
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)]()
+[![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
+[![]()]()
 [![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
-[![]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
  </div> 
  <div>  
 
@@ -61,6 +62,3 @@
 </div>
 
 ![Snake animation](https://github.com/RobertoAraujo/RobertoAraujo/blob/output/github-contribution-grid-snake.svg)
-
-
-  
