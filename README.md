@@ -1,6 +1,6 @@
 <div style="text-align:center;">
 <h3 style="text-align:center;"> Ola! Seja Bem Vindo !!! 👋</h3>
-<p> <i> Não busco ser perfeito, tento apenas dar o melhor de mim em minhas pequenas viagens nesse vasto mundo que é a programação. </i> </p>
+<p> <i> Apaixonado por desafios e pela constante evolução no universo da programação. Minha meta não é a perfeição, mas sim aprimorar minhas habilidades a cada linha de código e contribuir com soluções eficientes e criativas. Em cada projeto, busco aprender, crescer e dar sempre o meu melhor.</i> </p>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5568981054534)
