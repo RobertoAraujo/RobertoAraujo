@@ -21,8 +21,6 @@
 
 Sou desenvolvedor de software especializado em **Java**, com sólida experiência em **APIs REST**, **microsserviços**, e sistemas financeiros e governamentais. Gosto de escrever código limpo, escalável e com foco em performance. Minha atuação tem sido marcada por entregas relevantes em ambientes **remotos e presenciais**, integrando backend e frontend com qualidade e eficiência.
 
-Atuei em projetos de grande impacto por empresas como **Montreal Oficial**, **LAMPP-IT Solutions** e **Take Blip**, contribuindo com órgãos públicos como **PRODEMGE**, **SEAD**, **SEPLAN** e **SEFAZ**.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
