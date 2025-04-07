@@ -31,11 +31,14 @@ Atuei em projetos de grande impacto por empresas como **Montreal Oficial**, **LA
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![](https://img.shields.io/badge/JSF-777BB4?style=for-the-badge)]()
+[![](https://img.shields.io/badge/PrimeFaces-5A29E4?style=for-the-badge)]()
+[![](https://img.shields.io/badge/RichFaces-A60000?style=for-the-badge)]()
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge)]()
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 
 ### Bancos de Dados:
 [![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
@@ -49,30 +52,10 @@ Atuei em projetos de grande impacto por empresas como **Montreal Oficial**, **LA
 [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange)]()
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
+[![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
+[![](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)]()
 [![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)]()
 [![](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-
----
-
-## 💼 Resumo da Trajetória Profissional
-
-### Desenvolvedor de Software Java – Montreal Oficial *(nov/2024 - atual)*
-- Manutenção e evolução de sistemas para a PRODEMGE.
-- Tecnologias: Java 8, JSF, Spring, Oracle, DB2, Maven, GitLab, Swagger.
-
-### Analista de Sistemas Pleno – LAMPP-IT Solutions *(jun/2023 - nov/2024)*
-- Projetos para SEAD e SEPLAN: LeilõesAC, Convênios, Afluentes, IACO.
-- Tecnologias: Java, PHP (Laravel), PostgreSQL, MongoDB, Alpine.js, CI/CD.
-
-### Software Engineer – Take Blip *(ago/2022 - abr/2023)*
-- Foco em performance, refatorações e manutenção no projeto SmartCare (Java).
-
-### Analista de Sistemas Júnior – LAMPP-IT *(abr/2021 - ago/2022)*
-- Projetos para SEFAZ: DEC 2.0, Auditor, Documentos Fiscais.
-- Tecnologias: Java, JSF, Spring, PostgreSQL, Docker.
-
-### Analista de Sistemas – Grupo Recol *(mai/2020 - set/2020)*
-- Desenvolvimento em PHP e React para sistemas de atendimento e análise de desempenho.
 
 ---
 
