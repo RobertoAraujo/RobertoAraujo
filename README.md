@@ -15,13 +15,11 @@
   </a>
 </div>
 
----
 
 ## 🎯 Apresentação Profissional – Roberto Moraes
 
 Sou desenvolvedor de software especializado em **Java**, com sólida experiência em **APIs REST**, **microsserviços**, e sistemas financeiros e governamentais. Gosto de escrever código limpo, escalável e com foco em performance. Minha atuação tem sido marcada por entregas relevantes em ambientes **remotos e presenciais**, integrando backend e frontend com qualidade e eficiência.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -55,7 +53,6 @@ Sou desenvolvedor de software especializado em **Java**, com sólida experiênci
 [![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)]()
 [![](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 
----
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoAraujo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
